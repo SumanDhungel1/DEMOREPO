@@ -17,6 +17,7 @@ public class JavaApplication1 {
         // TODO code application logic here
         System.out.println("THis is locally modified");
         System.out.println("This is remote modification");
+        System.out.println(2+3); //added remotly
         }
     
 }
